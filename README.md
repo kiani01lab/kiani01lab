@@ -1,3 +1,1 @@
-# Hi, I'm Ali Kiani
-- :computer: I use daily: `.php`, `.go`
-- :mailbox: My personal email is codewithkiani@gmail.com
+<p align="Center">“First, solve the problem. Then write the code.”<br/>— John Johnson</p>
